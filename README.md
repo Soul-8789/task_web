@@ -16,4 +16,10 @@ git commit -m " first message"
 git branch -M main
 git remote add origin `<url>`
 git push origin main
+
+
+Branch 
+git branch
+git pull origin main 
+
 ```
